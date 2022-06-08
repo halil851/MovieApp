@@ -3,7 +3,7 @@ import {TouchableOpacity, StyleSheet, Image, Text} from 'react-native';
 import PropTypes from 'prop-types';
 
 const placeholderImage = require('../assets/images/placeholder.png');
-
+//
 const propTypes = {
   item: PropTypes.object,
 };
