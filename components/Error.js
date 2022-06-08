@@ -7,7 +7,7 @@ const propTypes = {
   errorText1: PropTypes.string,
   errorText2: PropTypes.string,
 };
-
+//
 const defaultProps = {
   errorText1: 'Oops! Something went wrong.',
   errorText2: 'Make sure you are online and restart the App',
