@@ -30,7 +30,7 @@ class Card extends React.PureComponent {
     );
   }
 }
-
+//
 const styles = StyleSheet.create({
   container: {
     padding: 5,
